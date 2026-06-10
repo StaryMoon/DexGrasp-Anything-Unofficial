@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/DexGrasp-Anything-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness"
+  authors:
+  - family-names: Zhong
+    given-names: Yiming
+  - family-names: Jiang
+    given-names: Qi
+  - family-names: Yu
+    given-names: Jingyi
+  - family-names: Ma
+    given-names: Yuexin
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_DexGrasp_Anything_Towards_Universal_Robotic_Dexterous_Grasping_with_Physics_Awareness_CVPR_2025_paper.html"
